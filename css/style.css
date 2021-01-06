@@ -106,6 +106,7 @@ font-weight: 700;
 }
 .service-content p{
     line-height: 20px;
+    color: #506f6fb5;
 }
 .service h1{
     text-align: center;
@@ -184,3 +185,30 @@ text-transform: c;
 }
 /*design end*/
 
+footer{
+    text-align: center;
+    height: 150px;
+    padding: 10px 0px;
+}
+footer h5{
+    margin: 10px 0px;
+    color: #526767e8;
+    font-size: 25px;
+}
+footer h4{
+    margin: 10px 0px;
+    color: #8c7979e3;
+    font-size: 30px;
+}
+.icon{
+    margin: auto;
+    width: 24.33%;
+}
+.icon-img{
+    float: left;
+    /* margin: auto; */
+    width: 32%;
+}
+.icon-img img{
+    width: 55%;
+}
