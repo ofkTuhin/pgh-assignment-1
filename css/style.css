@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.clearfix{
+    clear: both;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+    height: 100%;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+    font-size: 18px;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(21 39 91);
+}
+p{
+    font-size: 13px;
+}
+/*Font page start*/
+.front-page{
+    width: 100%;margin: auto;height: 500px;
+}
+.intro{
+    width: 42%;float: left;/* padding: 32px; */margin-left: 25px;
+}
+.myself{
+margin-top: 50px;
+}
+.myself h1{
+font-size: 50px;
+padding-right: 80px;
+}
+.myself span{
+color: orange;
+
+}
+.myself p{padding: 20px 100px 20px 0px;line-height: 25px;}
+.profile{width: 80%;
+}
+.profile img{
+width: 100%;
+}
+/*font page end*/
+
+
+
+
+/*about start*/
+.about{
+    margin: auto;height: 449px;
+   
+}
+.about p{
+    line-height: 25px;
+    margin: 30px 0px;
+}
+.about-img img{
+    width: 100%;
+}
+.about-img{
+width: 80%;
+}
+.about h1{
+font-size: 35px;
+font-weight: 700;
+}
+.about-paragraph{
+    margin: 70px 50px;
+}
+/*about end*/
+
+
+/*portfolio start*/
+.portfolio{
+    width: 100%;
+    margin: auto;
+    background-color: #d1d8d882;
+    height: 600px;
+}
+.portfolio h1{
+text-align: center;
+
+font-size: 50px;
+padding: 68px 0px;
+}
+.portfolio span{
+color: orange;
+}
+.portfolio .content{float: left;
+    width: 29.33%;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 30px;}
+.portfolio .content .pic{
+
+}
+.portfolio .content .pic img{
+width: 100%;
+}
+.description{
+}
+.description h4{font-size: 20px;padding: 10px 0px 5px;}
+.description p{padding: 10px 0px 15px;line-height: 15px;}
+.content-child{
+padding: 10px 14px;
+}
+/*portfolio end*/
+
+
+/*design start*/
+.design{
+background-image: url(../images/Group_33094_1.png);
+height: 200px;
+width: 60%;
+margin: auto;
+background-repeat: no-repeat;
+background-size: cover;
+font-family: sans-serif;
+margin-top: 60px;
+}
+.design h2{
+
+display: inline-block;
+padding: 75px 60px;
+font-size: 40px;
+color: white;
+text-transform: c;
+}
+.design a{
+    margin: 90px 60px;
+    float: right;
+    text-decoration: none;
+    color: #ffff;
+    font-size: 18px;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+/*design end*/
+
