@@ -63,8 +63,9 @@ width: 100%;
 
 /*about start*/
 .about{
-    margin: auto;height: 449px;
-   
+    margin: auto;
+    height: 449px;
+    background: #d3dece17;
 }
 .about p{
     line-height: 25px;
@@ -84,6 +85,32 @@ font-weight: 700;
 }
 /*about end*/
 
+.service{
+    width: 100%;
+    height: 300px;
+    padding: 50px 0px;
+    background: #7dbb8026;
+}
+.service-content{
+    width: 45%;
+    float: left;
+    text-align: center;
+    background-color: #e2addd33;
+    margin-left: 30px;
+    margin-top: 50px;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.service-content h3{
+    margin-bottom: 20px;
+}
+.service-content p{
+    line-height: 20px;
+}
+.service h1{
+    text-align: center;
+    font-size: 50px;
+}
 
 /*portfolio start*/
 .portfolio{
