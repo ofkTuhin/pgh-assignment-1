@@ -43,10 +43,7 @@ p{
 .myself{
 margin-top: 50px;
 }
-.myself h1{
-font-size: 50px;
-padding-right: 80px;
-}
+.myself h1{font-size: 50px;/* padding-right: 122px; */}
 .myself span{
 color: orange;
 
