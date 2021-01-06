@@ -8,7 +8,7 @@
 }
 
 .container{
-    width: 1200px;
+    width: 1150px;
     margin: auto;
     height: 100%;
     box-sizing: border-box;
@@ -33,7 +33,10 @@ p{
     width: 100%;margin: auto;height: 500px;
 }
 .intro{
-    width: 42%;float: left;/* padding: 32px; */margin-left: 25px;
+    width: 42%;
+    float: left;
+    /* padding: 32px; */
+    margin-left: 25px;
 }
 .myself{
 margin-top: 50px;
@@ -47,8 +50,7 @@ color: orange;
 
 }
 .myself p{padding: 20px 100px 20px 0px;line-height: 25px;}
-.profile{width: 80%;
-}
+.profile{width: 85%;float: left;margin-left: 15%;}
 .profile img{
 width: 100%;
 }
@@ -69,15 +71,14 @@ width: 100%;
 .about-img img{
     width: 100%;
 }
-.about-img{
-width: 80%;
-}
+.about-img{width: 85%;}
 .about h1{
 font-size: 35px;
 font-weight: 700;
 }
 .about-paragraph{
-    margin: 70px 50px;
+    margin: 70px 0px;
+    margin-left: 25%;
 }
 /*about end*/
 
